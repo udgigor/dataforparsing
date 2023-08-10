@@ -1,0 +1,137 @@
+Aviator 1920
+Big Game Hunter
+Charter Boat Captain
+Deep-Sea Diver
+Explorer
+Mountain Climber
+Prospector
+Race Driver
+Treasure Hunter
+Architect
+Designer
+Painter/Sculptor
+Photographer
+Writer
+Entertainer, Performance
+Film Crew
+Film Star
+Musician, Legitimate
+Stage Actor
+Stage Hand
+Stunt Man
+Talent Agent
+Acrobat
+Boxer/Wrestler
+Golf Pro
+Professional Sports Athlete
+Manager/Coach
+Swimmer/Diver
+Tennis Pro
+Track and Field
+Trainer
+Accountant
+Barber
+Clerk
+Company Officer
+Executive
+Salesman
+Secretary
+Shopkeeper
+Small Business Owner
+Stock Broker
+Switchboard Operator
+Travelling Salesman
+Bible Salesman
+Catholic Priest
+Charismatic Cult Leader
+Deacon/Elder
+Itinerant Preacher
+Missionary 20th C
+Protestant Minister
+Rabbi
+Bank Robber
+Bookie
+Bootlegger/Thug
+Burglar
+Con Man
+Fence
+Forger/Counterfeiter
+Gambler
+Gangster
+Gangster, Mafia
+Hit Man
+Hooker
+Loan Shark
+Pick Pocket
+Punk
+Shifty Accountant/Lawyer
+Smuggler
+Spy
+Columnist
+Copywriter
+Editor
+Foreign Correspondent
+Photojournalist
+Radio Announcer
+Reporter
+Farmer/Farm Hand
+Lumberjack
+Miner
+Ranch Hand/Cowboy
+Bartender
+Bus Driver/Streetcar Conductor
+Cocktail Waitress
+Laborer
+Skilled Trade/Mechanic
+Taxi Driver
+Union Activist
+Agency Detective
+Bounty Hunter
+Federal Agents
+Forensic Specialist
+Plainclothes Detective
+Private Eye
+Uniformed Police Officer
+Western Lawman
+Bail Bondsman
+Judge
+Practicing Attorney
+Prosecuting Attorney
+Dentist
+Forensic Surgeon
+Nurse
+Orderly
+Pharmacist
+Physician
+Plastic Surgeon
+Technician
+Alienist
+Madhouse Attendant
+Psychologist
+Mercenary
+Military Officer 20th C
+Sailor
+Soldier/Marine
+Ambassador
+Boss
+Communist/Radical
+Elected Official
+Field Researcher
+Professor/Teacher
+Researcher
+Student/Intern
+Antique Dealer
+Book Dealer
+Dilettante of Independent Means
+Fireman
+Flapper
+Gardener/Grave Digger
+Hobo
+Librarian
+Merchant Marine
+Museum Curator
+Occultist
+Parapsychologist, Scientific
+Surveyor
+Undertaker
+Zookeeper
